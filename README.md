@@ -82,7 +82,7 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
 ## Summary: 
 Removing the 9th grade scores from THS made very little impact to analysis by spending, size, school type, or by grade.  Changes to the district data would be the sample size of the data.  Although averages may be the same by grade, but there are less entries for 9th graders, average math score, average reading score, number of students passing math, number of students passing reading, anbd number of students passing both math and reading.
 
-  # Overall District Averages Changed As Below
+  ## Overall District Averages Changed As Below
     - The average math score was reduced from 79% to 78.9%
     - The average reading scoare remained the same
     - The % passing math was reduced from 75% tyo 74.8%
