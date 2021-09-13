@@ -33,17 +33,17 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
       * The % passing reading was reduced from 86% to 85.7%
       * The % passing both math and reading was reduced from 65% to 64.9%
      
-    # BEFORE
+    # Before
     ![dis_sum_b](https://user-images.githubusercontent.com/88443672/133142896-c99d1144-19f7-4b0a-9bfa-0e95efe5e790.png)
-    # AFTER
+    # After
     ![dis_sum_a](https://user-images.githubusercontent.com/88443672/133142917-d99820f6-f363-4076-b71f-b7a3706e7560.png)
 
   - How is the school summary affected?
     The affects of removing the 9th grades scores from Thomas High School only impact Thomas High School in the overall school summary. 
     
-    # BEFORE
+    # Before
     ![school_sum_b](https://user-images.githubusercontent.com/88443672/133146246-e5d023ae-7728-4ea4-becd-57e8f6b707bc.png)
-    # AFTER
+    # After
     ![school_sum_a](https://user-images.githubusercontent.com/88443672/133146304-d718d841-a813-4bf3-a17a-c4aed9f21922.png)
 
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -56,19 +56,26 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
     
   - How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade - There is no impact to grades, other than THS 9th grade being "NaN"
+    # After
     ![bygradeM](https://user-images.githubusercontent.com/88443672/133147618-1047ca5e-bbe3-495d-886b-f3a36030ddf1.png)
     ![bygradeR](https://user-images.githubusercontent.com/88443672/133147648-72a979ed-a389-4c88-b24c-fd26116005bd.png)
 
-    * Scores by school spending
+    * Scores by school spending - There is no impact to the scores by school spending
+    # Before    
     ![byspendingB](https://user-images.githubusercontent.com/88443672/133153343-68e20948-7ef9-4ff4-8750-77e5d4929912.png)
+    # After
     ![byspendingA](https://user-images.githubusercontent.com/88443672/133153383-0eac5716-1bfa-4125-8a34-93a085a9a5cb.png)
 
     * Scores by school size
+    # Before
     ![bysizeb](https://user-images.githubusercontent.com/88443672/133153405-54e2cb68-3c98-4893-8551-fba8128bd762.png)
+    # After
     ![bysizea](https://user-images.githubusercontent.com/88443672/133153410-ed903c7a-b3d2-45eb-a1e8-5785c82f883e.png)
     
     * Scores by school type
+    # Before
     ![bytypeb](https://user-images.githubusercontent.com/88443672/133153439-b6aa563a-cc31-4ad9-b878-2f00acf2f7c3.png)
+    # After
     ![bytypea](https://user-images.githubusercontent.com/88443672/133153451-a257900c-29db-4b76-8e33-416f5f4bae7c.png)
     
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
