@@ -6,19 +6,19 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
 
 ## Process
  * Set THS 9th Grade Math and Reading Scores to "NaN"
-  - ![THS_NANM](https://user-images.githubusercontent.com/88443672/133144349-9b471718-708d-4cb7-b6d5-d8ce2cd0e833.png)
-  - ![THS_NANR](https://user-images.githubusercontent.com/88443672/133144364-ab3032f1-ca04-43ed-aaa0-ce8461672138.png)
-  - ![THS_NANtable](https://user-images.githubusercontent.com/88443672/133144434-04f60177-58d8-4435-89b7-1159b4244150.png)
+  ![THS_NANM](https://user-images.githubusercontent.com/88443672/133144349-9b471718-708d-4cb7-b6d5-d8ce2cd0e833.png)
+  ![THS_NANR](https://user-images.githubusercontent.com/88443672/133144364-ab3032f1-ca04-43ed-aaa0-ce8461672138.png)
+  ![THS_NANtable](https://user-images.githubusercontent.com/88443672/133144434-04f60177-58d8-4435-89b7-1159b4244150.png)
  * Calculate THS Student Population for 10-12th Grades
-  - ![THS10_12](https://user-images.githubusercontent.com/88443672/133144668-9f92d7b9-b55a-41cb-bcc4-39f2705c171c.png)
+  ![THS10_12](https://user-images.githubusercontent.com/88443672/133144668-9f92d7b9-b55a-41cb-bcc4-39f2705c171c.png)
  * Sum of 10-12 Graders w/ Passing Math Score
-  - ![THS_PM](https://user-images.githubusercontent.com/88443672/133144895-51c530b9-87ab-40c0-9f7a-515beb203e83.png)
+  ![THS_PM](https://user-images.githubusercontent.com/88443672/133144895-51c530b9-87ab-40c0-9f7a-515beb203e83.png)
  * Sum of 10-12 Graders w/ Passing Reading Score
-  - ![THS_PR](https://user-images.githubusercontent.com/88443672/133144911-27b9017e-6d3f-4bd2-9f2c-57286c6d390d.png)
+  ![THS_PR](https://user-images.githubusercontent.com/88443672/133144911-27b9017e-6d3f-4bd2-9f2c-57286c6d390d.png)
  * Sum of 10-12 Graders w/ Passing Math & Reading Score
-  - ![THS_PMR](https://user-images.githubusercontent.com/88443672/133144934-4334e188-0fc2-4e5c-a020-09194808c67a.png)
+  ![THS_PMR](https://user-images.githubusercontent.com/88443672/133144934-4334e188-0fc2-4e5c-a020-09194808c67a.png)
  * Calculate % Passing for THS 10-12 Graders
-  - ![THS_PCT_Calcs](https://user-images.githubusercontent.com/88443672/133145029-c0ba6afd-b32b-4a17-a60f-40e67769a868.png)
+  ![THS_PCT_Calcs](https://user-images.githubusercontent.com/88443672/133145029-c0ba6afd-b32b-4a17-a60f-40e67769a868.png)
 
 ## Results: 
  
