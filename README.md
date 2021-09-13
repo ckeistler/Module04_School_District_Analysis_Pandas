@@ -20,6 +20,9 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
  * Calculate % Passing for THS 10-12 Graders
   ![THS_PCT_Calcs](https://user-images.githubusercontent.com/88443672/133145029-c0ba6afd-b32b-4a17-a60f-40e67769a868.png)
 
+ * After removing the THS 9th grade results, averages in our DataFrame were skewed lower, as less scores were divided by the same base student body.  We then replaced the corresponding values in our DataFrame with the recalculated values for THS.
+  ![ReplaceScores](https://user-images.githubusercontent.com/88443672/133145630-8fac08ee-b090-437b-b9dc-a2017ad4164b.png)
+ 
 ## Results: 
  
   - How is the district summary affected?
