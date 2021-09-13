@@ -68,7 +68,7 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
 
     * Scores by school size
     # Before
-    ![bysizeb](https://user-images.githubusercontent.com/88443672/133153405-54e2cb68-3c98-4893-8551-fba8128bd762.png)
+    ![bysizeb](https://user-images.githubusercontent.com/88443672/133154243-97ee8a3e-230e-4747-9b87-4ade78b5f9d9.png)
     # After
     ![bysizea](https://user-images.githubusercontent.com/88443672/133153410-ed903c7a-b3d2-45eb-a1e8-5785c82f883e.png)
     
