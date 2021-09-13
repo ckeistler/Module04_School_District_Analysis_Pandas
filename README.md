@@ -53,9 +53,10 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
       - The % of students passing math declined by 0.1% (93.2%)
       - The % of students passing reading declined by 0.3% (97%)
       - The % of students passing both math and reading declined by 0.3% (90.6%)
-      - 
+    
   - How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
+    * 
     * Scores by school spending
     * Scores by school size
     * Scores by school type
