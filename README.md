@@ -6,7 +6,12 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
 ## Results: 
  
   - How is the district summary affected?
+    ![dis_sum_b](https://user-images.githubusercontent.com/88443672/133142896-c99d1144-19f7-4b0a-9bfa-0e95efe5e790.png)
+    ![dis_sum_a](https://user-images.githubusercontent.com/88443672/133142917-d99820f6-f363-4076-b71f-b7a3706e7560.png)
+
   - How is the school summary affected?
+    The affects of removing the 9th grades scores from Thomas High School only impact Thomas High School in the overall school summary. 
+
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
