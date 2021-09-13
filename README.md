@@ -3,7 +3,8 @@
 ## Overview of the school district analysis: 
 Module 4 provided 2 csv files, one with student data, and another with school system data. We then were tasked with merging the data sets and performing analysis on test results, school budget, school spending per student, type of school, school size, etc.  The challenge portion of the module tasked us with setting a small portion of the dataset with a "NaN" value due to suspicion of academic dishonesty.  After removing the Thomas High School 9th grade test results, we then recalculated and replaced values within the DataFrame, before recalculating and sorting the views by size, type, spending, etc.  
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following question
+## Results: 
+ 
   - How is the district summary affected?
   - How is the school summary affected?
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
