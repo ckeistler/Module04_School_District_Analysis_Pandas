@@ -66,19 +66,20 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
     # After
     ![byspendingA](https://user-images.githubusercontent.com/88443672/133153383-0eac5716-1bfa-4125-8a34-93a085a9a5cb.png)
 
-    * Scores by school size
+    * Scores by school size - There is no impact to the scores by school size
     # Before
     ![bysizeb](https://user-images.githubusercontent.com/88443672/133154243-97ee8a3e-230e-4747-9b87-4ade78b5f9d9.png)
     # After
     ![bysizea](https://user-images.githubusercontent.com/88443672/133153410-ed903c7a-b3d2-45eb-a1e8-5785c82f883e.png)
     
-    * Scores by school type
+    * Scores by school type - There is no impact to the scores by school type
     # Before
     ![bytypeb](https://user-images.githubusercontent.com/88443672/133153439-b6aa563a-cc31-4ad9-b878-2f00acf2f7c3.png)
     # After
     ![bytypea](https://user-images.githubusercontent.com/88443672/133153451-a257900c-29db-4b76-8e33-416f5f4bae7c.png)
     
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+Removing the 9th grade scores from THS made very little impact to analysis by spending, size, school type, or by grade.  
 
 
 
