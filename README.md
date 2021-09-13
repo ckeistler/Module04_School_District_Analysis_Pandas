@@ -55,8 +55,10 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
       - The % of students passing both math and reading declined by 0.3% (90.6%)
     
   - How does replacing the ninth-grade scores affect the following:
-    * Math and reading scores by grade
-    * 
+    * Math and reading scores by grade - There is no impact to grades, other than THS 9th grade being "NaN"
+    ![bygradeM](https://user-images.githubusercontent.com/88443672/133147618-1047ca5e-bbe3-495d-886b-f3a36030ddf1.png)
+    ![bygradeR](https://user-images.githubusercontent.com/88443672/133147648-72a979ed-a389-4c88-b24c-fd26116005bd.png)
+
     * Scores by school spending
     * Scores by school size
     * Scores by school type
