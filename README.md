@@ -26,13 +26,28 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
 ## Results: 
  
   - How is the district summary affected?
+    After removing the THS 9th grade results
+      * The average math score was reduced from 79% to 78.9%
+      * The average reading scoare remained the same
+      * The % passing math was reduced from 75% tyo 74.8%
+      * The % passing reading was reduced from 86% to 85.7%
+      * The % passing both math and reading was reduced from 65% to 64.9%
+     
+    BEFORE
     ![dis_sum_b](https://user-images.githubusercontent.com/88443672/133142896-c99d1144-19f7-4b0a-9bfa-0e95efe5e790.png)
+    AFTER
     ![dis_sum_a](https://user-images.githubusercontent.com/88443672/133142917-d99820f6-f363-4076-b71f-b7a3706e7560.png)
 
   - How is the school summary affected?
     The affects of removing the 9th grades scores from Thomas High School only impact Thomas High School in the overall school summary. 
+    
+    BEFORE
+    ![school_sum_b](https://user-images.githubusercontent.com/88443672/133146246-e5d023ae-7728-4ea4-becd-57e8f6b707bc.png)
+    AFTER
+    ![school_sum_a](https://user-images.githubusercontent.com/88443672/133146304-d718d841-a813-4bf3-a17a-c4aed9f21922.png)
 
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  
   - How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
     * Scores by school spending
@@ -42,23 +57,6 @@ Module 4 provided 2 csv files, one with student data, and another with school sy
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
-## A high-level snapshot of the district's key metrics, presented in a table format
 
-## An overview of the key metrics for each school, presented in a table format
 
-## Tables presenting each of the following metrics:
-  - Top 5 and bottom 5 performing schools, based on the overall passing rate
-  - The average math score received by students in each grade level at each school
-  - The average reading score received by students in each grade level at each school
-  - School performance based on the budget per student
-  - School performance based on the school size 
-  - School performance based on the type of school
 
-  - Total number of students
-  - Total number of schools
-  - Total budget
-  - Average math score
-  - Average reading score
-  - Percentage of students who passed math
-  - Percentage of students who passed reading
-  - Overall passing percentage
